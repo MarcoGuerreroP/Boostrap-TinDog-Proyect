@@ -7,5 +7,6 @@ function getRandomInt(max) {
 
 }
 
-console.log(`%c${tag}`, 'color: #fff; background: #000; padding: 5px;');
+
+
 
